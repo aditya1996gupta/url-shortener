@@ -1,14 +1,8 @@
-Here are all the commands in one go to:
-
-✅ Clone the repo
-✅ Build and run the backend
-✅ Serve the frontend
-✅ Open the browser to test
-
 Run the URL Shortener Project (Java + Maven + HTML/JS)
 bash
 Copy
 Edit
+
 # 1. Clone the repo
 git clone https://github.com/aditya1996gupta/url-shortener.git
 cd url-shortener
