@@ -1,0 +1,5 @@
+com\urlshortener\db\Database.class
+com\urlshortener\db\UrlRepository.class
+com\urlshortener\handler\RedirectHandler.class
+com\urlshortener\Main.class
+com\urlshortener\handler\UrlHandler.class
